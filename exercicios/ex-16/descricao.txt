@@ -1,0 +1,1 @@
+Nesse exercício iremos criar um degradê usando CSS.

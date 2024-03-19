@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links e pseudo-class e pseudo-element</title>
+    <style>
+        body {
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+
+        a {
+            color: lightskyblue;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: rgb(225, 64, 64);
+        }
+
+        a:visited {
+            color: blue;
+        }
+
+        a:active {
+            color: rgb(238, 238, 114);
+        }
+
+        a::before {
+            content: '-';
+        }
+
+        a::after {
+            content: '-';
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Acesse nossos canais</h1>
+    <ul type="none">
+        <li><a href="https://youtube.com.br" target="_blank">Youtube</a></li>
+        <li><a href="https://www.instagram.com/" target="_blank">Instagran</a></li>
+        <li><a href="https://www.w3schools.com/" target="_blank">W3School</a></li>
+        <li><a href="https://samsung.com/" target="_blank">Samsung</a></li>
+        <li><a href="https://www.cursoemvideo.com" target="_blank">Curso em vídeo</a></li>
+
+    </ul>
+    
+</body>
+</html>

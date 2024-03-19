@@ -1,0 +1,1 @@
+Nesse exercício para colorcamos em prática todo o conteúdo abordado sobre cores, fizemos um site de exemplo, com um conteúdo bem simples, apenas para trabalharmos a questão de paleta de cores, harmonização de cores, dentre outros tópicos.

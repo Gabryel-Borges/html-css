@@ -1,0 +1,17 @@
+body {
+    background-color:coral;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+p {
+    text-align:justify;
+}
+
+h1 {
+    background-color:rgba(208, 62, 62, 0.526);
+    color:goldenrod;
+}
+
+h2 {
+    color:hsla(218, 66%, 52%, 0.841);
+}

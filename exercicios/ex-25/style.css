@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+:root {
+    --altura: 200px;
+    --corPadrao: #044ff1;
+}
+
+* {
+    margin: 0px;
+}
+
+div#inicio {
+    height: var(--altura);
+    background-color: lightskyblue;
+}
+
+div#meio {
+    height: var(--altura);
+    background-color: lightgreen;
+}
+
+div#fim {
+    height: var(--altura);
+    background-color: var(--corPadrao);
+}

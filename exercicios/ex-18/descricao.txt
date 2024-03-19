@@ -1,0 +1,1 @@
+Este execício exploramos as principais configurações no uso de fontes no CSS
